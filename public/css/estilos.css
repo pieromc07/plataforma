@@ -1,0 +1,28 @@
+.azul{
+	background: #3498DB;
+	color: white;
+	font-family: Arial;
+	height: 35px;
+}
+.rojo{
+background: red; 
+border :1px solid white;
+}
+.logo{
+height: 100px;	
+width: 100px;
+}
+.imagen{
+height: 1300px; 
+	
+}
+.parteVideo{
+ 
+background:#E74C3C; 
+border: 3px solid white;
+height: 770px; 
+}
+.matriculate{
+	background:#58D68D; 
+	 
+}
